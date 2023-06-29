@@ -1,2 +1,2 @@
-# Entrance Exam result scrappper
+# Entrance Exam result scrapper
 ### just run scrap.py file
